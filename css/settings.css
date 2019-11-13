@@ -1,0 +1,24 @@
+.settings .settings__section {
+  border-top: 1px solid #f7f7f7;
+  padding: 15px 0px 5px;
+}
+
+.settings__list:first-child .fa-volume-down,
+.settings__list:first-child .fa-info {
+  padding-left: 3px;
+  width: 18px;
+}
+
+.settings .settings__setting {
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.settings__setting .setting__icon {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.settings .setting__settings:last-child {
+  margin-bottom: 0;
+}
